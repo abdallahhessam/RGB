@@ -10,4 +10,4 @@ RGB-LED Display: Showcase the magic of color blending with this repository dedic
 #
 * STM32 Microcontroller
 * ST-LINK V2
-* RGB LED# RGB
+* RGB LED
